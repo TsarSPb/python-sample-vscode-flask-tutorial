@@ -15,8 +15,8 @@ strategy:
       python.version: '2.7'
     Python38:
       python.version: '3.8'
-    Python385:
-      python.version: '3.8.5'
+    Python3810:
+      python.version: '3.8.10'
 steps:
 - task: UsePythonVersion@0
   inputs:
