@@ -14,7 +14,7 @@ strategy:
     Python27:
       python.version: '2.7'
     Python37:
-      python.version: '3.7'
+      python.version: '3.9'
 
 steps:
 - task: UsePythonVersion@0
